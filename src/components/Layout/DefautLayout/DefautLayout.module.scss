@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;//can theo chieu doc
+    align-items: center;
+}
+
+.container {
+    width: 1150px;
+    min-height: 1000px;
+    display: flex;
+
+}
+
+.content {
+    flex: 1;//chiem het khoang khong con lai
+}
